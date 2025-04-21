@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "moneta-iq",
-  description: "A landing page for moneta-iq, a application that helps in investing",
+  description: "A landing page for moneta-iq, a application that helps in investing and manages your portfolio.",
 };
 
 export default function RootLayout({
